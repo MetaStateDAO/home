@@ -1,6 +1,6 @@
 # MetaState DAO Official home
 
-## What we are using
+## What we are about to use
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [WebStorm](https://lp.jetbrains.com/webstorm-ide/) as the main IDE
