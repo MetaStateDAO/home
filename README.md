@@ -1,13 +1,34 @@
 # MetaState DAO Official home
 
+## Setup
+
+Make sure to install the dependencies
+
+```bash
+yarn install
+```
+
+## Development
+
+Start the development server on http://localhost:3000
+
+```bash
+yarn dev
+```
+
+## Production
+
+Auto Deploy by [GitHub Actions](https://github.com/features/actions)
+
+
 ## What we are about to use
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [WebStorm](https://lp.jetbrains.com/webstorm-ide/) as the main IDE
 - [Remix](http://remix.ethereum.org/) as the Solidity (contract) IDE
 - [Node.js](https://nodejs.org/)
-- [Vue2](https://vuejs.org/)
-- [Nuxt.js](https://nuxtjs.org/) as the Main Framework
+- [Vue3](https://v3.vuejs.org/)
+- [Nuxt.js v3](https://v3.nuxtjs.org/) as the Main Framework
 - [web3.js](https://web3js.readthedocs.io/en/v1.4.0/) as the web3 support provider
 - [Dexie.js](https://dexie.org/) as browser IndexedDB driver
 - [TailwindCSS](https://tailwindcss.com/) and [TailwindUI](https://tailwindui.com/) for the styles and UI
